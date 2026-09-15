@@ -16,7 +16,9 @@ git clone https://https://github.com/andretorquato443/Previsao-de-AVC-Ciencia-de
 
 2. Crie um ambiente virtual:
 
-python -m venv .venv.venv\Scripts\activate
+python -m venv .venv 
+
+.venv\Scripts\activate
 
 3. Instale as dependências necessárias:
 

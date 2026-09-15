@@ -11,16 +11,17 @@ Bibliotecas: Pandas, Numpy, Altair, Matplotlib
  Como Executar o Projeto:
 
 1. Clone este repositório:
-```bash
-git clone https://github.com
 
+git clone https://https://github.com/andretorquato443/Previsao-de-AVC-Ciencia-de-Dados
 
-2. Instale as dependências necessárias:
-```bash
+2. Crie um ambiente virtual:
+
+python -m venv .venv.venv\Scripts\activate
+
+3. Instale as dependências necessárias:
+
 pip install -r requirements.txt
-```
 
-3. Abra e execute o notebook de sua preferência (Jupyter Notebook / VS Code).
 
----
-*Projeto desenvolvido como parte do meu portfólio de Ciência de Dados.*
+
+

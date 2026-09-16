@@ -12,7 +12,7 @@ Bibliotecas: Pandas, Numpy, Altair, Matplotlib
 
  Como Executar o Projeto:
 
-1. Selecione o arquivo healthcare-dataset-stroke-data.csv e rode-o no google colab.
+1. Selecione o arquivo trabalho_final_de_cd_2026.ipynb e rode-o no google colab.
 
 
 
